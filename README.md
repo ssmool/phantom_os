@@ -128,7 +128,7 @@ start_dataglove()
 
 ## 📖 Complete Manual
 
-📄 **Full Documentation:** [PHANTOM-OS DATAGLOVE Manual for RAG Developers](./manual/manual_phantom_os_dataglove.md)
+📄 **Full Documentation:** [PHANTOM-OS DATAGLOVE Manual for RAG Developers](./manual/manual_phantom_os_dataglove.MD)
 
 ---
 
