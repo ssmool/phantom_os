@@ -1,8 +1,6 @@
-![phantom_os_data_gloves_cover_xdos0_xos](https://github.com/user-attachments/assets/4e8ac18c-1039-4c85-af7e-f84e5aa02002)# phantom_os
-modern graphics systems virtual drivers by phantom-os datagloves
-
 # PHANTOM-OS DATAGLOVE RAG-DRIVERS  
 **Build your own virtual drivers for DATAGLOVES to manage PC Visual Systems**  
+modern graphics systems virtual drivers by phantom-os datagloves
 
 ![PHANTOM OS DATAGLOVE](./assets/phantom_os_logo.gif)  
 
