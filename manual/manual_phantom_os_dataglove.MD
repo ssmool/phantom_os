@@ -131,7 +131,9 @@ start_dataglove()
 * **Keyboard not mapping:** Ensure `keyboard.png` exists in your assets folder.
 
 
-## 6️⃣ Troubleshooting - MAKE YOUR DATAGLOVE CRAFTER WITH PRINTABLE PAPER FILE TO CUT AND PASTE FOR GESTURE RECOGNIZE WITH THE PASTED DATAGLOVE PAPER'S WEARS
+## 6️⃣ Troubleshooting:
+
+* *MAKE YOUR DATAGLOVE CRAFTER WITH PRINTABLE PAPER FILE TO CUT AND PASTE FOR GESTURE RECOGNIZE WITH THE PASTED DATAGLOVE PAPER'S WEARS
 
 ![PHANTOM OS DATAGLOVE - PRINTABLE FOR DATAGLOVES CRAFTERS](./PHATOM_OS_MANUL_DATAGLOVES_PDF_PRINT_OBJ_0X_C.GIF)
 
@@ -142,6 +144,7 @@ start_dataglove()
 Author: **@asytrick**
 Email: **[eusmool@gmail.com](mailto:eusmool@gmail.com)**
 Repo: **[https://github.com/ssmool](https://github.com/ssmool)**
+
 
 
 
