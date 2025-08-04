@@ -133,83 +133,10 @@ start_dataglove()
 
 ---
 
-## 🇧🇷 Manual em Português
-
-O **PHANTOM-OS DATAGLOVE** é um sistema de drivers virtuais para controle por gestos usando **luvas coloridas**.
-Funciona com o **LIONS MAPPER** para detectar padrões RGB da **webcam** ou **vídeos**, mapeando gestos para ações de mouse e teclado.
-
----
-
-### 1️⃣ Instalação
-
-```bash
-pip install tkinter keyboard pyautogui pillow lionsmapper
-```
-
----
-
-### 2️⃣ Configuração
-
-#### Seleção de Tela
-
-```python
-set_ecran(ecran_src=0)  # 0 = tela principal
-```
-
-#### Mapeamento de Teclado
-
-```python
-set_keyboard(_axis)
-set_keyboard_return(_axis)
-find_map_keyboard(_x, _y, _value)
-```
-
-#### Mapeamento de Mouse
-
-```python
-set_mouse({"x": 0, "y": 0})
-```
-
-#### Abrindo Interfaces Virtuais
-
-```python
-open_virtual_keyboard()
-open_virtual_mouse(...)
-```
-
----
-
-### 3️⃣ Configuração da Luva
-
-```python
-set_dataglove_side("LEFT")  # LEFT ou RIGHT
-```
-
-```python
-LEFT_GLOVE = {
-    "FINGER_1": "255,0,0",
-    "FINGER_2": "0,255,0",
-    "FINGER_3": "0,0,255",
-    "FINGER_4": "255,255,0",
-    "FINGER_5": "255,0,255"
-}
-```
-
----
-
-### 4️⃣ Iniciando
-
-```python
-start_dataglove()
-```
-
-
-
----
-
 ## 📩 Contact
 
 Author: **@asytrick**
 Email: **[eusmool@gmail.com](mailto:eusmool@gmail.com)**
 Repo: **[https://github.com/ssmool](https://github.com/ssmool)**
+
 
