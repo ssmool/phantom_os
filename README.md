@@ -1,6 +1,7 @@
 # PHANTOM-OS DATAGLOVE RAG-DRIVERS  
-**Build your own virtual drivers for DATAGLOVES to manage PC Visual Systems**  
-modern graphics systems virtual drivers by phantom-os datagloves
+**Build your own virtual drivers for DATAGLOVES to manage PC Visual Systems** 
+
+#like the modern graphics systems virtual drivers by phantom-os datagloves
 
 ![PHANTOM OS DATAGLOVE](./assets/phantom_os_logo.gif)  
 
