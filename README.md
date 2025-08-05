@@ -31,7 +31,7 @@ or
 pip install tkinter keyboard pyautogui pillow lionsmapper
 
 ```bash
-pip install phantom_os [uderconstruction - comming soon ]
+pip install phantomos
 ````
 
 
