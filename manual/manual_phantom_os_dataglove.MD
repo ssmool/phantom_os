@@ -30,6 +30,12 @@ Install dependencies:
 pip install tkinter keyboard pyautogui pillow lionsmapper
 ````
 
+or
+
+```bash
+pip install phantomos
+````
+
 ---
 
 ## 2️⃣ Configuration
@@ -151,6 +157,7 @@ start_dataglove()
 Author: **@asytrick**
 Email: **[eusmool@gmail.com](mailto:eusmool@gmail.com)**
 Repo: **[https://github.com/ssmool](https://github.com/ssmool)**
+
 
 
 
